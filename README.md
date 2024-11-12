@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- العنوان الرئيسي -->
-<img src="رابط_الصورة_الأساسي" alt="Makavael Multi Vendor Food Delivery System Banner" style="max-width: 100%; height: auto;">
+<img src="https://github.com/Makavael/Multivendor-Food-Delivery" alt="Makavael Multi Vendor Food Delivery System Banner" style="max-width: 100%; height: auto;">
 
 # Makavael Multi Vendor Food Delivery System
 
@@ -34,21 +34,21 @@
 
 <table>
   <tr>
-    <td><img src="رابط_صورة_Expo" alt="Expo" width="100"></td>
-    <td><img src="رابط_صورة_React-Navigation" alt="React Navigation" width="100"></td>
-    <td><img src="رابط_صورة_Apollo-GraphQL" alt="Apollo GraphQL" width="100"></td>
-    <td><img src="رابط_صورة_ReactJS" alt="ReactJS" width="100"></td>
-    <td><img src="رابط_صورة_NodeJS" alt="NodeJS" width="100"></td>
-    <td><img src="رابط_صورة_MongoDB" alt="MongoDB" width="100"></td>
-    <td><img src="رابط_صورة_Firebase" alt="Firebase" width="100"></td>
+    <td><img src="https://github.com/Makavael/Multivendor-Food-Delivery/blob/main/Expo.jpg" alt="Expo" width="100"></td>
+    <td><img src="https://github.com/Makavael/Multivendor-Food-Delivery/blob/main/React%20Native.jpg" alt="React Navigation" width="100"></td>
+    <td><img src="https://github.com/Makavael/Multivendor-Food-Delivery/blob/main/GraphQL.jpg" alt="Apollo GraphQL" width="100"></td>
+    <td><img src="https://github.com/Makavael/Multivendor-Food-Delivery/blob/main/React%20Native.jpg" alt="ReactJS" width="100"></td>
+    <td><img src="https://github.com/Makavael/Multivendor-Food-Delivery/blob/main/NodeJS.jpg" alt="NodeJS" width="100"></td>
+    <td><img src="https://github.com/Makavael/Multivendor-Food-Delivery/blob/main/MongoDB.jpg" alt="MongoDB" width="100"></td>
+    <td><img src="https://github.com/Makavael/Multivendor-Food-Delivery/blob/main/Firebase.jpg" alt="Firebase" width="100"></td>
   </tr>
   <tr>
-    <td><img src="رابط_صورة_React-Native" alt="React Native" width="100"></td>
-    <td><img src="رابط_صورة_React-Router" alt="React Router" width="100"></td>
-    <td><img src="رابط_صورة_GraphQL" alt="GraphQL" width="100"></td>
-    <td><img src="رابط_صورة_ExpressJS" alt="ExpressJS" width="100"></td>
-    <td><img src="رابط_صورة_React-Strap" alt="React Strap" width="100"></td>
-    <td><img src="رابط_صورة_Amplitude" alt="Amplitude" width="100"></td>
+    <td><img src="https://github.com/Makavael/Multivendor-Food-Delivery/blob/main/React%20Native.jpg" alt="React Native" width="100"></td>
+    <td><img src="https://github.com/Makavael/Multivendor-Food-Delivery/blob/main/GraphQL.jpg" alt="React Router" width="100"></td>
+    <td><img src="https://github.com/Makavael/Multivendor-Food-Delivery/blob/main/GraphQL.jpg" alt="GraphQL" width="100"></td>
+    <td><img src="https://github.com/Makavael/Multivendor-Food-Delivery/blob/main/ExpressJS.jpg" alt="ExpressJS" width="100"></td>
+    <td><img src="https://github.com/Makavael/Multivendor-Food-Delivery/blob/main/React%20Native.jpg" alt="React Strap" width="100"></td>
+    <td><img src="https://github.com/Makavael/Multivendor-Food-Delivery/blob/main/GraphQL.jpg" alt="Amplitude" width="100"></td>
   </tr>
 </table>
 
