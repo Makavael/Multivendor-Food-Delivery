@@ -28,7 +28,8 @@
 <hr/>
 
 ## :rocket: Technologies <a id="technologies"></a>
-<div align="center">
+
+<p align="center">
   <img src="https://img.shields.io/badge/Expo-000?logo=expo&logoColor=white" alt="Expo" height="30"/>
   <img src="https://img.shields.io/badge/React Native-20232A?logo=react&logoColor=61DAFB" alt="React Native" height="30"/>
   <img src="https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white" alt="NodeJS" height="30"/>
@@ -36,22 +37,23 @@
   <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=white" alt="Firebase" height="30"/>
   <img src="https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white" alt="GraphQL" height="30"/>
   <img src="https://img.shields.io/badge/Express.js-404D59?logo=express&logoColor=white" alt="ExpressJS" height="30"/>
-</div>
+</p>
 
 <hr/>
 
 ## :framed_picture: Screenshots <a id="screenshots"></a>
 
-<div align="center">
-  <img src="Images/home_1.jpg" alt="Home Screen 1" width="30%" style="border-radius: 8px; margin: 10px;"/>
-  <img src="Images/home_2.jpg" alt="Home Screen 2" width="30%" style="border-radius: 8px; margin: 10px;"/>
-  <img src="Images/home_3.jpg" alt="Home Screen 3" width="30%" style="border-radius: 8px; margin: 10px;"/>
-</div>
+<p align="center">
+  <img src="Images/home_1.jpg" alt="Home Screen 1" width="250" style="border-radius: 8px; margin: 10px;"/>
+  <img src="Images/home_2.jpg" alt="Home Screen 2" width="250" style="border-radius: 8px; margin: 10px;"/>
+  <img src="Images/home_3.jpg" alt="Home Screen 3" width="250" style="border-radius: 8px; margin: 10px;"/>
+</p>
 
 <hr/>
 
 ## :mailbox_with_mail: Contact Us <a id="contact-us"></a>
-<div align="center">
+
+<p align="center">
   <a href="https://www.facebook.com/BloodServer">
     <img src="https://img.shields.io/badge/Facebook-blue?logo=facebook&logoColor=white" height="30">
   </a>
@@ -61,5 +63,4 @@
   <a href="https://www.linkedin.com/in/Makavael">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" height="30">
   </a>
-</div>
-
+</p>
