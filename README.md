@@ -1,9 +1,13 @@
 <div align="center">
 
+<!-- العنوان الرئيسي -->
+<img src="رابط_الصورة_الأساسي" alt="Makavael Multi Vendor Food Delivery System Banner" style="max-width: 100%; height: auto;">
+
 # Makavael Multi Vendor Food Delivery System
 
 **The future of food delivery and order management.**
 
+<!-- الشارات -->
 <a href="https://github.com/Makavael">
   <img src="https://img.shields.io/github/stars/Makavael?style=social" alt="GitHub Stars">
 </a>
@@ -19,6 +23,34 @@
 
 ![GitHub license](https://img.shields.io/github/license/Makavael/food-delivery-multivendor)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/Makavael/food-delivery-multivendor)
+
+</div>
+
+---
+
+## 🛠️ Technologies
+
+<div align="center">
+
+<table>
+  <tr>
+    <td><img src="رابط_صورة_Expo" alt="Expo" width="100"></td>
+    <td><img src="رابط_صورة_React-Navigation" alt="React Navigation" width="100"></td>
+    <td><img src="رابط_صورة_Apollo-GraphQL" alt="Apollo GraphQL" width="100"></td>
+    <td><img src="رابط_صورة_ReactJS" alt="ReactJS" width="100"></td>
+    <td><img src="رابط_صورة_NodeJS" alt="NodeJS" width="100"></td>
+    <td><img src="رابط_صورة_MongoDB" alt="MongoDB" width="100"></td>
+    <td><img src="رابط_صورة_Firebase" alt="Firebase" width="100"></td>
+  </tr>
+  <tr>
+    <td><img src="رابط_صورة_React-Native" alt="React Native" width="100"></td>
+    <td><img src="رابط_صورة_React-Router" alt="React Router" width="100"></td>
+    <td><img src="رابط_صورة_GraphQL" alt="GraphQL" width="100"></td>
+    <td><img src="رابط_صورة_ExpressJS" alt="ExpressJS" width="100"></td>
+    <td><img src="رابط_صورة_React-Strap" alt="React Strap" width="100"></td>
+    <td><img src="رابط_صورة_Amplitude" alt="Amplitude" width="100"></td>
+  </tr>
+</table>
 
 </div>
 
@@ -43,6 +75,19 @@
 <a href="https://www.youtube.com/watch?v=tgAcgesF5HI">
   <img src="https://img.shields.io/badge/Watch%20Demo%202-red?logo=youtube&style=for-the-badge" width="150">
 </a>
+
+</div>
+
+---
+
+## 📸 Screenshots
+
+<div align="center">
+
+<img src="https://github.com/Makavael/Multivendor-Food-Delivery/blob/main/high-level1.png" alt="Screenshot 1" width="300">
+<img src="https://github.com/Makavael/Multivendor-Food-Delivery/blob/main/customer2.jpeg" alt="Screenshot 2" width="300">
+<img src="https://github.com/Makavael/Multivendor-Food-Delivery/blob/main/customer1.jpeg" alt="Screenshot 3" width="300">
+<img src="https://github.com/Makavael/Multivendor-Food-Delivery/blob/main/admin1.png" alt="Screenshot 4" width="300">
 
 </div>
 
