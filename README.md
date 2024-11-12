@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- العنوان الرئيسي -->
-<img src="https://github.com/Makavael/Multivendor-Food-Delivery" alt= style="max-width: 100%; height: auto;">
+<img src="https://github.com/Makavael/Multivendor-Food-Delivery" alt="Makavael Multi Vendor Food Delivery System Banner" style="max-width: 100%; height: auto;">
 
 # Makavael Multi Vendor Food Delivery System
 
@@ -34,21 +34,38 @@
 
 <table>
   <tr>
-    <td><img src="https://github.com/Makavael/Multivendor-Food-Delivery/blob/main/Expo.jpg" alt="Expo" width="100"></td>
-    <td><img src="https://github.com/Makavael/Multivendor-Food-Delivery/blob/main/React%20Native.jpg" alt="React Navigation" width="100"></td>
-    <td><img src="https://github.com/Makavael/Multivendor-Food-Delivery/blob/main/GraphQL.jpg" alt="Apollo GraphQL" width="100"></td>
-    <td><img src="https://github.com/Makavael/Multivendor-Food-Delivery/blob/main/React%20Native.jpg" alt="ReactJS" width="100"></td>
-    <td><img src="https://github.com/Makavael/Multivendor-Food-Delivery/blob/main/NodeJS.jpg" alt="NodeJS" width="100"></td>
-    <td><img src="https://github.com/Makavael/Multivendor-Food-Delivery/blob/main/MongoDB.jpg" alt="MongoDB" width="100"></td>
-    <td><img src="https://github.com/Makavael/Multivendor-Food-Delivery/blob/main/Firebase.jpg" alt="Firebase" width="100"></td>
+    <td><img src="https://github.com/Makavael/Multivendor-Food-Delivery/blob/main/Expo.jpg" alt="Expo" width="80"></td>
+    <td><img src="https://github.com/Makavael/Multivendor-Food-Delivery/blob/main/React%20Native.jpg" alt="React Navigation" width="80"></td>
+    <td><img src="https://github.com/Makavael/Multivendor-Food-Delivery/blob/main/GraphQL.jpg" alt="Apollo GraphQL" width="80"></td>
+    <td><img src="https://github.com/Makavael/Multivendor-Food-Delivery/blob/main/React%20Native.jpg" alt="ReactJS" width="80"></td>
+    <td><img src="https://github.com/Makavael/Multivendor-Food-Delivery/blob/main/NodeJS.jpg" alt="NodeJS" width="80"></td>
+    <td><img src="https://github.com/Makavael/Multivendor-Food-Delivery/blob/main/MongoDB.jpg" alt="MongoDB" width="80"></td>
+    <td><img src="https://github.com/Makavael/Multivendor-Food-Delivery/blob/main/Firebase.jpg" alt="Firebase" width="80"></td>
   </tr>
   <tr>
-    <td><img src="https://github.com/Makavael/Multivendor-Food-Delivery/blob/main/React%20Native.jpg" alt="React Native" width="100"></td>
-    <td><img src="https://github.com/Makavael/Multivendor-Food-Delivery/blob/main/GraphQL.jpg" alt="React Router" width="100"></td>
-    <td><img src="https://github.com/Makavael/Multivendor-Food-Delivery/blob/main/GraphQL.jpg" alt="GraphQL" width="100"></td>
-    <td><img src="https://github.com/Makavael/Multivendor-Food-Delivery/blob/main/ExpressJS.jpg" alt="ExpressJS" width="100"></td>
-    <td><img src="https://github.com/Makavael/Multivendor-Food-Delivery/blob/main/React%20Native.jpg" alt="React Strap" width="100"></td>
-    <td><img src="https://github.com/Makavael/Multivendor-Food-Delivery/blob/main/GraphQL.jpg" alt="Amplitude" width="100"></td>
+    <td>Expo</td>
+    <td>React Navigation</td>
+    <td>Apollo GraphQL</td>
+    <td>ReactJS</td>
+    <td>NodeJS</td>
+    <td>MongoDB</td>
+    <td>Firebase</td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/Makavael/Multivendor-Food-Delivery/blob/main/React%20Native.jpg" alt="React Native" width="80"></td>
+    <td><img src="https://github.com/Makavael/Multivendor-Food-Delivery/blob/main/GraphQL.jpg" alt="React Router" width="80"></td>
+    <td><img src="https://github.com/Makavael/Multivendor-Food-Delivery/blob/main/GraphQL.jpg" alt="GraphQL" width="80"></td>
+    <td><img src="https://github.com/Makavael/Multivendor-Food-Delivery/blob/main/ExpressJS.jpg" alt="ExpressJS" width="80"></td>
+    <td><img src="https://github.com/Makavael/Multivendor-Food-Delivery/blob/main/React%20Native.jpg" alt="React Strap" width="80"></td>
+    <td><img src="https://github.com/Makavael/Multivendor-Food-Delivery/blob/main/GraphQL.jpg" alt="Amplitude" width="80"></td>
+  </tr>
+  <tr>
+    <td>React Native</td>
+    <td>React Router</td>
+    <td>GraphQL</td>
+    <td>ExpressJS</td>
+    <td>React Strap</td>
+    <td>Amplitude</td>
   </tr>
 </table>
 
