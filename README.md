@@ -1,7 +1,6 @@
 <div align="center">
 
 <!-- العنوان الرئيسي -->
-<img src="https://github.com/Makavael/Multivendor-Food-Delivery" alt="Makavael Multi Vendor Food Delivery System Banner" style="max-width: 100%; height: auto;">
 
 # Makavael Multi Vendor Food Delivery System
 
