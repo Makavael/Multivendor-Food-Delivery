@@ -1,38 +1,56 @@
 <div align="right">
-<a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https://github.com/اسم_المستخدم_هنا/اسم_المشروع" style="text-decoration:none">
-  <img src="https://img.shields.io/badge/-0d1117?logo=facebook"  width="40" height="30">
-</a>
-<a target="_blank" href="https://www.linkedin.com/shareArticle?mini=true&url=https://github.com/اسم_المستخدم_هنا/اسم_المشروع" style="text-decoration:none">
-  <img src="https://img.shields.io/badge/-0d1117?logo=linkedin"  width="40" height="30">
-</a>
-<a target="_blank" href="https://twitter.com/intent/tweet?&url=https://github.com/اسم_المستخدم_هنا/اسم_المشروع&via=TWITTER-HANDLE" style="text-decoration:none">
-  <img src="https://img.shields.io/badge/-0d1117?logo=twitter" width="40" height="30">
-</a>
+  <a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https://github.com/Makavael/food-delivery-multivendor-main" style="text-decoration:none">
+    <img src="https://img.shields.io/badge/-0d1117?logo=facebook" width="40" height="30">
+  </a>
+  <a target="_blank" href="https://www.linkedin.com/shareArticle?mini=true&url=https://github.com/Makavael/food-delivery-multivendor-main" style="text-decoration:none">
+    <img src="https://img.shields.io/badge/-0d1117?logo=linkedin" width="40" height="30">
+  </a>
+  <a target="_blank" href="https://twitter.com/intent/tweet?&url=https://github.com/Makavael/food-delivery-multivendor-main&via=TWITTER-HANDLE" style="text-decoration:none">
+    <img src="https://img.shields.io/badge/-0d1117?logo=twitter" width="40" height="30">
+  </a>
 </div>
 
 <div align="center">
   <h2>Food Delivery App</h2>
-  <i> تطبيق توصيل الطعام - نظام متعدد المتاجر </i>
- <br/>
-<br />
+  <i>تطبيق توصيل الطعام - نظام متعدد المتاجر</i>
+  <br/>
+  <br />
 </div>
 
 <div align="center">
-  
-[![License](https://img.shields.io/badge/License-MIT-red)](https://github.com/اسم_المستخدم_هنا/اسم_المشروع/blob/main/LICENSE)
-[![Stars](https://img.shields.io/github/stars/اسم_المستخدم_هنا/اسم_المشروع.svg)](https://github.com/اسم_المستخدم_هنا/اسم_المشروع/stargazers)
-[![Forks](https://img.shields.io/github/forks/اسم_المستخدم_هنا/اسم_المشروع.svg)](https://github.com/اسم_المستخدم_هنا/اسم_المشروع/network/members)
-[![Latest Release](https://img.shields.io/github/v/release/اسم_المستخدم_هنا/اسم_المشروع)](https://github.com/اسم_المستخدم_هنا/اسم_المشروع/releases)
-[![GitHub contributors](https://img.shields.io/github/contributors/اسم_المستخدم_هنا/اسم_المشروع)](https://github.com/اسم_المستخدم_هنا/اسم_المشروع/graphs/contributors)
-[![Closed Issues](https://img.shields.io/github/issues-closed/اسم_المستخدم_هنا/اسم_المشروع?color=success)](https://github.com/اسم_المستخدم_هنا/اسم_المشروع/issues?q=is%3Aissue+is%3Aclosed)
-
+  <a href="https://github.com/Makavael/food-delivery-multivendor-main/blob/main/LICENSE">
+    <img src="https://img.shields.io/badge/License-MIT-red">
+  </a>
+  <a href="https://github.com/Makavael/food-delivery-multivendor-main/stargazers">
+    <img src="https://img.shields.io/github/stars/Makavael/food-delivery-multivendor-main.svg">
+  </a>
+  <a href="https://github.com/Makavael/food-delivery-multivendor-main/network/members">
+    <img src="https://img.shields.io/github/forks/Makavael/food-delivery-multivendor-main.svg">
+  </a>
+  <a href="https://github.com/Makavael/food-delivery-multivendor-main/releases">
+    <img src="https://img.shields.io/github/v/release/Makavael/food-delivery-multivendor-main">
+  </a>
+  <a href="https://github.com/Makavael/food-delivery-multivendor-main/graphs/contributors">
+    <img src="https://img.shields.io/github/contributors/Makavael/food-delivery-multivendor-main">
+  </a>
+  <a href="https://github.com/Makavael/food-delivery-multivendor-main/issues?q=is%3Aissue+is%3Aclosed">
+    <img src="https://img.shields.io/github/issues-closed/Makavael/food-delivery-multivendor-main?color=success">
+  </a>
 </div>
 
 <div align="center">
-[![Facebook](https://img.shields.io/badge/facebook-blue?logo=facebook&logoColor=Blue&color=%23fbfbfb)](https://www.facebook.com/BloodServer)
-[![Instagram](https://img.shields.io/badge/Instagram-blue?logo=instagram&logoColor=D815BE&color=%23fcfcfc)](https://www.instagram.com/Makavael)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=LinkedIn&logoColor=darkblue&color=%23fcfcfc)](https://www.linkedin.com/in/Makavael)
-[![GitHub](https://img.shields.io/badge/GitHub-blue?logo=github&logoColor=white&color=%23292929)](https://github.com/Makavael)
+  <a href="https://www.facebook.com/BloodServer">
+    <img src="https://img.shields.io/badge/facebook-blue?logo=facebook&logoColor=Blue&color=%23fbfbfb">
+  </a>
+  <a href="https://www.instagram.com/Makavael">
+    <img src="https://img.shields.io/badge/Instagram-blue?logo=instagram&logoColor=D815BE&color=%23fcfcfc">
+  </a>
+  <a href="https://www.linkedin.com/in/Makavael">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=LinkedIn&logoColor=darkblue&color=%23fcfcfc">
+  </a>
+  <a href="https://github.com/Makavael">
+    <img src="https://img.shields.io/badge/GitHub-blue?logo=github&logoColor=white&color=%23292929">
+  </a>
 </div>
 
 <div align="center">
@@ -76,4 +94,3 @@ RecycleView, ToolBar, CardView, Volley, JSON, ListView, NestedScroll, DrawerLayo
 
 ## :mailbox_with_mail: Contact Us <a id="contact-us"></a>
 [Connect with me on Facebook](https://www.facebook.com/BloodServer)
-
