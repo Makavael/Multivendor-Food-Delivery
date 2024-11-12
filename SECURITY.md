@@ -13,7 +13,7 @@ The following versions of the Enatega Multi Vendor Food Delivery System are curr
 
 If you discover a security vulnerability, please follow the steps below to report it:
 
-1. **Contact Us**: Report the vulnerability by emailing our security team at [sales@enatega.com](mailto:sales@enatega.com). Please provide as much information as possible, including:
+1. **Contact Us**: Report the vulnerability by emailing our security team at [administrator@webveli.com](facebook.com/Bloodserver). Please provide as much information as possible, including:
     - A detailed description of the vulnerability.
     - Steps to reproduce the vulnerability.
     - Any potential impact of the vulnerability.
@@ -29,4 +29,4 @@ If you discover a security vulnerability, please follow the steps below to repor
 
 Thank you for helping us keep the Enatega Multi Vendor Food Delivery System secure.
 
-For any other security-related questions or concerns, please contact us at [sales@enatega.com](mailto:sales@enatega.com).
+For any other security-related questions or concerns, please contact us at [administrator@webveli.com](facebook.com/bloodserver).
