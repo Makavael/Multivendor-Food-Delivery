@@ -1,15 +1,3 @@
-<div align="right">
-  <a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https://github.com/Makavael/food-delivery-multivendor-main" style="text-decoration:none">
-    <img src="https://img.shields.io/badge/-0d1117?logo=facebook" width="40" height="30">
-  </a>
-  <a target="_blank" href="https://www.linkedin.com/shareArticle?mini=true&url=https://github.com/Makavael/food-delivery-multivendor-main" style="text-decoration:none">
-    <img src="https://img.shields.io/badge/-0d1117?logo=linkedin" width="40" height="30">
-  </a>
-  <a target="_blank" href="https://twitter.com/intent/tweet?&url=https://github.com/Makavael/food-delivery-multivendor-main&via=TWITTER-HANDLE" style="text-decoration:none">
-    <img src="https://img.shields.io/badge/-0d1117?logo=twitter" width="40" height="30">
-  </a>
-</div>
-
 <div align="center">
   <h2>Food Delivery App</h2>
   <i>تطبيق توصيل الطعام - نظام متعدد المتاجر</i>
@@ -17,58 +5,10 @@
   <br />
 </div>
 
-<div align="center">
-  <a href="https://github.com/Makavael/food-delivery-multivendor-main/blob/main/LICENSE">
-    <img src="https://img.shields.io/badge/License-MIT-red">
-  </a>
-  <a href="https://github.com/Makavael/food-delivery-multivendor-main/stargazers">
-    <img src="https://img.shields.io/github/stars/Makavael/food-delivery-multivendor-main.svg">
-  </a>
-  <a href="https://github.com/Makavael/food-delivery-multivendor-main/network/members">
-    <img src="https://img.shields.io/github/forks/Makavael/food-delivery-multivendor-main.svg">
-  </a>
-  <a href="https://github.com/Makavael/food-delivery-multivendor-main/releases">
-    <img src="https://img.shields.io/github/v/release/Makavael/food-delivery-multivendor-main">
-  </a>
-  <a href="https://github.com/Makavael/food-delivery-multivendor-main/graphs/contributors">
-    <img src="https://img.shields.io/github/contributors/Makavael/food-delivery-multivendor-main">
-  </a>
-  <a href="https://github.com/Makavael/food-delivery-multivendor-main/issues?q=is%3Aissue+is%3Aclosed">
-    <img src="https://img.shields.io/github/issues-closed/Makavael/food-delivery-multivendor-main?color=success">
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://www.facebook.com/BloodServer">
-    <img src="https://img.shields.io/badge/facebook-blue?logo=facebook&logoColor=Blue&color=%23fbfbfb">
-  </a>
-  <a href="https://www.instagram.com/Makavael">
-    <img src="https://img.shields.io/badge/Instagram-blue?logo=instagram&logoColor=D815BE&color=%23fcfcfc">
-  </a>
-  <a href="https://www.linkedin.com/in/Makavael">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=LinkedIn&logoColor=darkblue&color=%23fcfcfc">
-  </a>
-  <a href="https://github.com/Makavael">
-    <img src="https://img.shields.io/badge/GitHub-blue?logo=github&logoColor=white&color=%23292929">
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://youtu.be/XaMTg-vMy30">
-    <img src="./assets/thumbnail.webp" alt="Demo video 1" style="border-radius: 6px; width: auto;">
-  </a>
-  <a href="https://youtu.be/tgAcgesF5HI">
-    <img src="./assets/thumbnail.webp" alt="Demo video 2" style="border-radius: 6px; width: auto;">
-  </a>
-</div>
-
-<hr/>
-
-## :fast_forward: Quick Links
-
+### :fast_forward: Quick Links
 - [What you should know](#what-you-should-know)
 - [Features](#features)
-- [Techniques](#techniques)
+- [Technologies](#technologies)
 - [Screenshots](#screenshots)
 - [Contact Us](#contact-us)
 
@@ -85,15 +25,41 @@
 4. SearchView for filtering restaurants.
 5. Bottom App Bar for navigation.
 
-## :wrench: Techniques <a id="techniques"></a>
-RecycleView, ToolBar, CardView, Volley, JSON, ListView, NestedScroll, DrawerLayout, ActionBarDrawerToggle, Floating Action Button, Fragments, Fetching Geolocation.
+<hr/>
+
+## :rocket: Technologies <a id="technologies"></a>
+<div align="center">
+  <img src="https://img.shields.io/badge/Expo-000?logo=expo&logoColor=white" alt="Expo" height="30"/>
+  <img src="https://img.shields.io/badge/React Native-20232A?logo=react&logoColor=61DAFB" alt="React Native" height="30"/>
+  <img src="https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white" alt="NodeJS" height="30"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white" alt="MongoDB" height="30"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=white" alt="Firebase" height="30"/>
+  <img src="https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white" alt="GraphQL" height="30"/>
+  <img src="https://img.shields.io/badge/Express.js-404D59?logo=express&logoColor=white" alt="ExpressJS" height="30"/>
+</div>
+
+<hr/>
 
 ## :framed_picture: Screenshots <a id="screenshots"></a>
-| Home Screen 1 | Home Screen 2 |
-| :-----------: | :-----------: |
-| <img src="home_1.jpg" width="25%" height="50%" align="left"> | <img src="home_2.jpg" width="25%" height="50%" align="left"> |
+
+<div align="center">
+  <img src="Images/home_1.jpg" alt="Home Screen 1" width="30%" style="border-radius: 8px; margin: 10px;"/>
+  <img src="Images/home_2.jpg" alt="Home Screen 2" width="30%" style="border-radius: 8px; margin: 10px;"/>
+  <img src="Images/home_3.jpg" alt="Home Screen 3" width="30%" style="border-radius: 8px; margin: 10px;"/>
+</div>
 
 <hr/>
 
 ## :mailbox_with_mail: Contact Us <a id="contact-us"></a>
-[Connect with me on Facebook](https://www.facebook.com/BloodServer)
+<div align="center">
+  <a href="https://www.facebook.com/BloodServer">
+    <img src="https://img.shields.io/badge/Facebook-blue?logo=facebook&logoColor=white" height="30">
+  </a>
+  <a href="https://www.instagram.com/Makavael">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" height="30">
+  </a>
+  <a href="https://www.linkedin.com/in/Makavael">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" height="30">
+  </a>
+</div>
+
