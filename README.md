@@ -140,7 +140,6 @@ Full documentation is available [here](https://github.com/Makavael/food-delivery
 
 - [📖 What is included](https://www.facebook.com/BloodServer)
 - [🚀 Features](https://T.me/Makavael)
-- [🔧 Setup](htpps://Makavael.com)
 - [⚙️ Prerequisites](#-prerequisites)
 - [💻 Technologies](#-technologies)
 - [📷 Screenshots](#-screenshots)
@@ -164,4 +163,4 @@ For any inquiries, feel free to [contact me](mailto:makavael@example.com).
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/Makavael/food-delivery-multivendor/blob/main/LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://www.facebook.com/BloodServer) file for details.
