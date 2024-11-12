@@ -1,54 +1,96 @@
-<!-- روابط مشاركة على السوشيال ميديا -->
-<div align="right">
-  <a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=YOUR_LINK" style="text-decoration:none">
-    <img src="https://img.shields.io/badge/-Facebook-1877F2?logo=facebook&logoColor=white" width="100" height="30">
-  </a>
-  <a target="_blank" href="https://www.linkedin.com/shareArticle?mini=true&url=YOUR_LINK" style="text-decoration:none">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white" width="100" height="30">
-  </a>
-  <a target="_blank" href="https://twitter.com/intent/tweet?url=YOUR_LINK&via=YOUR_TWITTER_HANDLE" style="text-decoration:none">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white" width="100" height="30">
-  </a>
+<div align="center">
+
+# Makavael Multi Vendor Food Delivery System
+
+**The future of food delivery and order management.**
+
+<a href="https://github.com/Makavael">
+  <img src="https://img.shields.io/github/stars/Makavael?style=social" alt="GitHub Stars">
+</a>
+<a href="https://github.com/Makavael/food-delivery-multivendor/network/members">
+  <img src="https://img.shields.io/github/forks/Makavael/food-delivery-multivendor?style=social" alt="GitHub Forks">
+</a>
+<a href="https://github.com/Makavael/food-delivery-multivendor/issues">
+  <img src="https://img.shields.io/github/issues/Makavael/food-delivery-multivendor" alt="GitHub Issues">
+</a>
+<a href="https://github.com/Makavael/food-delivery-multivendor/commits/main">
+  <img src="https://img.shields.io/github/last-commit/Makavael/food-delivery-multivendor" alt="Last Commit">
+</a>
+
+![GitHub license](https://img.shields.io/github/license/Makavael/food-delivery-multivendor)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/Makavael/food-delivery-multivendor)
+
 </div>
 
-<!-- عنوان المشروع -->
+---
+
+## 📲 Demo Apps
+
+- **Admin App**: [Download APK](https://github.com/Makavael)
+- **User App**: [Download APK](https://github.com/Makavael)
+- **Driver App**: [Download APK](https://github.com/Makavael)
+
+---
+
+## 🎥 YouTube Demo Videos
+
 <div align="center">
-  <h2>Enatega Multi Vendor Food Delivery System</h2>
-  <i>The food delivery and order management system for the future.</i>
-  <br /><br />
+
+<a href="https://www.youtube.com/watch?v=XaMTg-vMy30">
+  <img src="https://img.shields.io/badge/Watch%20Demo%201-red?logo=youtube&style=for-the-badge" width="150">
+</a>
+
+<a href="https://www.youtube.com/watch?v=tgAcgesF5HI">
+  <img src="https://img.shields.io/badge/Watch%20Demo%202-red?logo=youtube&style=for-the-badge" width="150">
+</a>
+
 </div>
 
-<!-- شارات معلومات المشروع -->
+---
+
+## 📚 Documentation
+
+Full documentation is available [here](https://github.com/Makavael/food-delivery-multivendor).
+
+---
+
+## 🔗 Follow Me on Social Media
+
 <div align="center">
-  <a href="https://github.com/YOUR_REPO">
-    <img src="https://img.shields.io/github/stars/YOUR_USERNAME/YOUR_REPO?style=social" alt="Stars">
-  </a>
-  <a href="https://github.com/YOUR_REPO/network/members">
-    <img src="https://img.shields.io/github/forks/YOUR_USERNAME/YOUR_REPO?style=social" alt="Forks">
-  </a>
-  <a href="https://github.com/YOUR_REPO/issues">
-    <img src="https://img.shields.io/github/issues/YOUR_USERNAME/YOUR_REPO" alt="Issues">
-  </a>
-  <a href="https://github.com/YOUR_REPO/commits/main">
-    <img src="https://img.shields.io/github/last-commit/YOUR_USERNAME/YOUR_REPO" alt="Last Commit">
-  </a>
-  <a href="https://www.youtube.com/@YOUR_CHANNEL">
-    <img src="https://img.shields.io/badge/Watch-YouTube-red?logo=youtube" alt="YouTube">
-  </a>
+
+<a href="https://www.facebook.com/Makavael">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge" width="150">
+</a>
+<a href="https://twitter.com/Makavael">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge" width="150">
+</a>
+<a href="https://www.linkedin.com/in/Makavael">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" width="150">
+</a>
+<a href="https://www.instagram.com/Makavael">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" width="150">
+</a>
+
 </div>
 
-<!-- روابط التواصل الاجتماعي -->
+---
+
+## :busts_in_silhouette: Contributors
+
 <div align="center">
-  <a href="https://www.facebook.com/YOUR_PAGE">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white" width="100">
-  </a>
-  <a href="https://www.instagram.com/YOUR_PROFILE">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" width="100">
-  </a>
-  <a href="https://twitter.com/YOUR_HANDLE">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white" width="100">
-  </a>
-  <a href="https://www.linkedin.com/company/YOUR_COMPANY">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" width="100">
-  </a>
+<a href="https://github.com/Makavael/food-delivery-multivendor/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Makavael/food-delivery-multivendor" style="max-width: 50%; height: auto;" />
+</a>
 </div>
+
+---
+
+## 📧 Contact
+
+For any inquiries, feel free to [contact me](mailto:makavael@example.com).
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/Makavael/food-delivery-multivendor/blob/main/LICENSE) file for details.
