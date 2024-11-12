@@ -136,13 +136,23 @@ Full documentation is available [here](https://github.com/Makavael/food-delivery
 
 ---
 
-## :busts_in_silhouette: Contributors
+## ⏩ Quick Links
 
-<div align="center">
-<a href="https://github.com/Makavael/food-delivery-multivendor/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Makavael/food-delivery-multivendor" style="max-width: 50%; height: auto;" />
-</a>
-</div>
+- [📖 What is included](https://www.facebook.com/BloodServer)
+- [🚀 Features](https://T.me/Makavael)
+- [🔧 Setup](htpps://Makavael.com)
+- [⚙️ Prerequisites](#-prerequisites)
+- [💻 Technologies](#-technologies)
+- [📷 Screenshots](#-screenshots)
+- [📐 High Level Architecture](#-high-level-architecture)
+- [📃 Documentation](#-documentation)
+- [🎥 Demo Videos](#-demo-videos)
+- [🎮 Demos](#-demos)
+- [👥 Contributors](#-contributors)
+- [⚠️ Disclaimer](#-disclaimer)
+- [📧 Contact Us](https://www.facebook.com/BloodServer)
+
+
 
 ---
 
